@@ -24,8 +24,8 @@
     width: 100%;
     padding: 8px;
     border: 1px dashed #9ad79b;
-    z-index: -1;
-    background-color: coral;
+    z-index: 1000;
+    background-color: rgba(33, 32, 32, 0.8);
   }
 
   .content {
